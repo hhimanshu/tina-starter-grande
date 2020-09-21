@@ -7,11 +7,10 @@ authors:
   - scott-byrne
 draft: false
 hero:
-  image: ../images/undefined
+  image: ../images/photo_2020-08-16_11-44-57.jpg
   large: false
   overlay: true
 ---
-
 > **Tina Grande** is a Gatsby starter with full TinaCMS integration. You can use Tina to add and remove pages, customize the theme, write content and more!
 
 ## Getting Started
