@@ -1,15 +1,15 @@
 {
   "authors": [
     {
-      "name": "Katie Graham",
-      "id": "katie-graham",
-      "email": "test@test.com"
+      "name": "Harit Himanshu",
+      "id": "hhimanshu",
+      "email": "contact@harit.dev"
     },
     {
-      "id": "scott-byrne",
-      "name": "Scott Byrne",
-      "email": "scott.byrne@forestry.io",
-      "link": "mailto:scott.byrne@forestry.io"
+      "id": "Deeksha Sharma",
+      "name": "deeksha25",
+      "email": "contact@deeksha.dev",
+      "link": "mailto:contact@deeksha.dev"
     }
   ]
 }
