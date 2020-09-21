@@ -7,7 +7,7 @@ authors:
   - scott-byrne
 draft: false
 hero:
-  image: ../images/coffee-beans.jpg
+  image: ../images/undefined
   large: false
   overlay: true
 ---
