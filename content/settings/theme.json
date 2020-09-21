@@ -2,7 +2,7 @@
   "color": {
     "black": "#1D1F1F",
     "white": "#f7f7f7",
-    "primary": "#79A693",
+    "primary": "#4D9272",
     "secondary": "#B8A45D"
   },
   "easing": "cubic-bezier(0.215, 0.610, 0.355, 1.000)",
